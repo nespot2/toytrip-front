@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Header from './component/Header';
+import Header from './component/header/Header';
 import Container from "./component/Container";
 import Footer from './component/Footer';
 
@@ -14,7 +14,6 @@ function App() {
         </div>
     );
 }
-
 
 
 export default App;
