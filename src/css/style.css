@@ -4,7 +4,6 @@
     width: 100vw;
     border: solid 1px black;
     height : auto;
-    background: yellow;
 }
 
 .footer {
@@ -43,6 +42,16 @@
 
 .search {
     margin: 1rem;
+}
+
+.airplan-segment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.airplan-item {
+    margin: 0.3rem;
 }
 
 @media (max-width:768px) {
