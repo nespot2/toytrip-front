@@ -1,4 +1,19 @@
 
+.container {
+    padding: 1rem;
+    width: 100vw;
+    border: solid 1px black;
+    height : auto;
+    background: yellow;
+}
+
+.footer {
+    height: 20vh;
+    border: solid 1px black;
+    background: green;
+
+}
+
 .header {
     display: flex;
     height: 10vh;

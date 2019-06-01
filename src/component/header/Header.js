@@ -6,8 +6,8 @@ class Header extends React.Component{
             <div className="header">
                 <div className="logo">toytrip</div>
                 <div className="item-group">
-                    <div className="item">항공권 조회</div>
-                    <div className="item">항공권 조회</div>
+                    <div className="item"><a href="/">항공권 조회</a></div>
+                    <div className="item"><a href="/">항공권 조회</a></div>
                 </div>
                 <div className="search-group">
                     <div className="search">

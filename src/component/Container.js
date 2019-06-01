@@ -4,8 +4,37 @@ class Container extends React.Component{
 
     render(){
         return (
-            <div>Container</div>
-        )
+            <div className="container">
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+                <div>container</div>
+            </div>
+        );
     }
 }
 
